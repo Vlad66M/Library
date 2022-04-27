@@ -305,7 +305,7 @@ namespace Model {
 	void AddBook()
 	{
 		Book tmp;
-		std::cout << "\nEnter the book's name\n";
+		std::cout << "\nAdding a new book\nEnter the book's name\n";
 		std::string tmpName;
 		std::cin >> tmpName;
 		std::cout << "\nEnter the author's id\n";
