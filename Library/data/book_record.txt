@@ -1,5 +1,0 @@
-
-Book Id
-100
-Count
-500
